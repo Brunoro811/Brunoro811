@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on develop app,systems for internet and smartphones.
 - 📫 How to reach me for email ferreira.bruno.oliveira@gmail.com.
 
-<div style="display: flex;gap:10px;justify-content:center;flex-wrap:wrap;">
+<div style="display: flex;gap:10px;justify-content:center;">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunoro811&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoro811&layout=compact&langs_count=7&theme=onedark )](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoro811&layout=compact&langs_count=7&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
