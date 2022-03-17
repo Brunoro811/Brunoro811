@@ -8,7 +8,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunoro811&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoro811&layout=compact&langs_count=7&theme=onedark )](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoro811&layout=compact&langs_count=7&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
