@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brunoro811
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Scrum,Javascript,Typescript, React, Redux, Context, React-Native, PHP,PDO, Python, Flask,SQLAlchemy,PostgreSQL, Mysql e Mongo.
+- 🌱 I’m currently learning Scrum,Javascript,Typescript, React, Redux, Context, React-Native, NodeJS, Express, TypeORM, PHP,PDO, Python, Flask,SQLAlchemy,PostgreSQL, Mysql e Mongo.
 - 💞️ I’m looking to collaborate on develop app,systems for internet and smartphones.
 - 📫 How to reach me for email ferreira.bruno.oliveira@gmail.com.
 
